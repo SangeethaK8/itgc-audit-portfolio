@@ -6,7 +6,7 @@ The Risk Control Matrix (RCM) maps identified IT risks to IT General Controls (I
 
 The RCM serves as the foundation for control testing by linking:
 
-**Risk → Control Objective → Control Activity → Evidence → Testing Procedure**
+**Risk → Control Objective → Control Description → Evidence → Testing Procedure**
 
 ---
 
